@@ -1,10 +1,10 @@
 ## Lake1059.SMUI
-构建于 .NET Framework 4.8
+构建于 .NET Framework 4.8  
 星露谷物语 Stardew Valley 的自研模组管理方案，支持所有类型的模组安装方法 
 
-SMUI 这个名字本来是我用来与 Pathoschild 的 SMAPI 的名字相对应的
-曾经我用过 SVMODManager 和 StardewModdingUI 这两个名字
-现在就剩纪念意义了，不过既然工程都已经建了也懒得改了
+SMUI 这个名字本来是我用来与 Pathoschild 的 SMAPI 的名字相对应的  
+曾经我用过 SVMODManager 和 StardewModdingUI 这两个名字  
+不过既然工程都已经建了也懒得改了
 
 由于我在库里很多都写的中文对象名，所以就只写中文的教程了
 
