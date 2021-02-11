@@ -1,0 +1,22 @@
+{
+    "Object": [
+        {
+            "Title": "afdian.net",
+            "Type": "link",
+            "Link": "https://afdian.net/@1059Studio",
+            "Subtitle": "赞助页面"
+        },
+        {
+            "Title": "Gitee 发布页",
+            "Type": "link",
+            "Link": "https://gitee.com/Lake1059/Lake1059.SMUI",
+            "Subtitle": "发布页"
+        },
+        {
+            "Title": "GitHub 发布页",
+            "Type": "link",
+            "Link": "https://github.com/Lake1059/Lake1059.SMUI",
+            "Subtitle": "发布页"
+        }
+    ]
+}
