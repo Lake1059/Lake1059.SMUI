@@ -2,21 +2,21 @@
     "Object": [
         {
             "Title": "afdian.net",
+            "Subtitle": "赞助页面",
             "Type": "link",
-            "Link": "https://afdian.net/@1059Studio",
-            "Subtitle": "赞助页面"
+            "Body": "https://afdian.net/@1059Studio"
         },
         {
             "Title": "Gitee 发布页",
+            "Subtitle": "发布页",
             "Type": "link",
-            "Link": "https://gitee.com/Lake1059/Lake1059.SMUI",
-            "Subtitle": "发布页"
+            "Body": "https://gitee.com/Lake1059/Lake1059.SMUI"
         },
         {
             "Title": "GitHub 发布页",
+            "Subtitle": "发布页",
             "Type": "link",
-            "Link": "https://github.com/Lake1059/Lake1059.SMUI",
-            "Subtitle": "发布页"
+            "Body": "https://github.com/Lake1059/Lake1059.SMUI"
         }
     ]
 }
