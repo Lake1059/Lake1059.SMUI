@@ -1,22 +1,34 @@
 {
     "Object": [
         {
-            "Title": "afdian.net",
+            "Title": "爱发电 afdian.net",
             "Subtitle": "赞助页面",
             "Type": "link",
             "Body": "https://afdian.net/@1059Studio"
         },
         {
-            "Title": "Gitee 发布页",
-            "Subtitle": "发布页",
+            "Title": "Gitee 仓库",
+            "Subtitle": "仓库",
             "Type": "link",
             "Body": "https://gitee.com/Lake1059/Lake1059.SMUI"
         },
         {
-            "Title": "GitHub 发布页",
-            "Subtitle": "发布页",
+            "Title": "GitHub 仓库",
+            "Subtitle": "仓库",
             "Type": "link",
             "Body": "https://github.com/Lake1059/Lake1059.SMUI"
+        },
+        {
+            "Title": "普通对话框文本测试",
+            "Subtitle": "测试",
+            "Type": "msg",
+            "Body": "https://github.com/Lake1059/Lake1059.SMUI"
+        },
+        {
+            "Title": "HTML换行对话框文本测试",
+            "Subtitle": "测试，%20 可换行",
+            "Type": "msg+crlf",
+            "Body": "测试文本%20%20换行"
         }
     ]
 }
