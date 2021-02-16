@@ -25,10 +25,10 @@
             "Body": "https://github.com/Lake1059/Lake1059.SMUI"
         },
         {
-            "Title": "HTML换行对话框文本测试",
-            "Subtitle": "测试，%20 可换行",
-            "Type": "msg+crlf",
-            "Body": "测试文本%20%20换行"
+            "Title": "换行对话框文本测试",
+            "Subtitle": "测试，<br> 可换行",
+            "Type": "msg<br>",
+            "Body": "测试文本<br><br>换行"
         }
     ]
 }
