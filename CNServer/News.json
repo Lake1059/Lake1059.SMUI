@@ -1,34 +1,35 @@
 {
     "Object": [
         {
-            "Title": "爱发电 afdian.net",
-            "Subtitle": "赞助页面",
+            "Title": "请继续使用第三代产品",
+            "Subtitle": "如果你还要正常管理 MOD 的话",
+            "Type": "link",
+            "Body": "https://gitee.com/Lake1059/SMUI-PRO-20"
+        },
+        {
+            "Title": "大佬给点饭吃吧",
+            "Subtitle": "给点 money 吧，饭都吃不起了",
             "Type": "link",
             "Body": "https://afdian.net/@1059Studio"
         },
         {
-            "Title": "Gitee 仓库",
-            "Subtitle": "仓库",
+            "Title": "考虑使用 MacType 软件来优化文字显示",
+            "Subtitle": "如果你觉得字不好看的话",
             "Type": "link",
-            "Body": "https://gitee.com/Lake1059/Lake1059.SMUI"
+            "Body": "https://www.mactype.net/"
         },
         {
-            "Title": "GitHub 仓库",
-            "Subtitle": "仓库",
-            "Type": "link",
-            "Body": "https://github.com/Lake1059/Lake1059.SMUI"
-        },
-        {
-            "Title": "普通对话框文本测试",
-            "Subtitle": "测试",
+            "Title": "预计正式版发布时间？",
+            "Subtitle": "......",
             "Type": "msg",
-            "Body": "https://github.com/Lake1059/Lake1059.SMUI"
+            "Body": "我也不知道什么时候才能把基本功能做完"
         },
         {
-            "Title": "换行对话框文本测试",
-            "Subtitle": "测试，<br> 可换行",
+            "Title": "服务器在哪",
+            "Subtitle": "因缺思厅",
             "Type": "msg<br>",
-            "Body": "测试文本<br><br>换行"
+            "Body": "Gitee<br><br>深圳市奥思网络科技<br><br>免费的怎么能不嫖.jpg<br><br>想去爆破的小心人家封你IP"
         }
+
     ]
 }
